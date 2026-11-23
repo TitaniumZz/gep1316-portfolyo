@@ -64,8 +64,5 @@ Kullanıcı yanlış bir doğum tarihi veya saat girerse program kapanmasın ist
  |
 
 ### APA 7 Kaynakça
-
 OpenAI. (2026). *ChatGPT* [Büyük dil modeli]. https://chatgpt.com/
-## APA 7 Kaynakça
 
-OpenAI. (2026). *ChatGPT* [Büyük dil modeli]. https://chatgpt.com/
