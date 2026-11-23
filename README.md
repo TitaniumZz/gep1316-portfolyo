@@ -2,7 +2,7 @@
 
 ## Hakkımda
 
-Merhaba, ben Dijital Oyun Tasarımı öğrencisi Lalin İpek Ersoy. Oyun tasarımı, görsel tasarım, kullanıcı arayüzleri ve oyunların oyuncuya nasıl bir deneyim sunduğu ilgimi çekiyor. Özellikle oyun geliştirirken tasarım ve yazılımın nasıl bir araya geldiğini öğrenmek istiyorum.
+Merhaba! Ben Dijital Oyun Tasarımı öğrencisi Lalin İpek Ersoy. Oyun tasarımı, görsel tasarım, kullanıcı arayüzleri ve oyunların oyuncuya nasıl bir deneyim sunduğu ilgimi çekiyor. Özellikle oyun geliştirirken tasarım ve yazılımın nasıl bir araya geldiğini öğrenmek istiyorum.
 
 ## Dersten Beklentilerim
 
@@ -17,4 +17,32 @@ Bence kodlama, oyun tasarımının sadece teknik tarafı değil, aynı zamanda y
 Bu projede Python kullanarak kullanıcıdan bazı kişisel doğum bilgilerini alan basit bir program hazırladım.
 
 Program kullanıcıdan:
-- Ad
+- Adını
+- Doğum tarihini
+- Doğum saatini
+- Doğduğu şehri
+
+ister.
+
+Girilen bilgilere göre kullanıcının yaşını, Güneş burcunu ve yaklaşık yükselen burcunu hesaplar. Böylece derste öğrendiğim temel Python konularını küçük bir projede kullanmış oldum.
+
+## Kullanılan Teknolojiler
+
+- Python
+- GitHub
+
+## Nasıl Çalıştırılır?
+
+1. Python bilgisayarınızda kurulu olmalıdır.
+2. `merhaba.py` dosyasını indirin.
+3. Terminal üzerinden dosyanın bulunduğu klasöre gidin.
+4. Aşağıdaki komutu çalıştırın:
+
+```bash
+python merhaba.py
+```
+
+## Kaynaklar
+
+- [Python Resmi Dokümantasyonu](https://docs.python.org/3/)
+- [GitHub Docs](https://docs.github.com/)
