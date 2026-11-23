@@ -41,6 +41,9 @@ Girilen bilgilere göre kullanıcının yaşını, Güneş burcunu ve yaklaşık
 ```bash
 python merhaba.py
 ```
+<img width="622" height="427" alt="image" src="https://github.com/user-attachments/assets/106f756d-340f-478c-b64e-4734ff2044ec" />
+<img width="619" height="528" alt="image" src="https://github.com/user-attachments/assets/23d14251-b16a-44ee-bbb5-d3f1f2e74967" />
+
 
 ## Kaynaklar
 
